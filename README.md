@@ -1,11 +1,6 @@
 # CASCADE
 
-**Context-Aware Significance of Cross-gene Attribution for Discovering Elements (CASCADE) for DNA Large Language Models uncovers motifs at cell-type-specific, tissue-specific, and gene-specific resolutions**
-
-Ali Farghadan<sup>1</sup>, Robert J. Schmitz<sup>2</sup>, Scott A. Jackson<sup>1</sup>, Ethan Pickering<sup>1</sup>
-
-<sup>1</sup>Department of Crop and Soil Sciences, University of Georgia, Athens, GA, USA
-<sup>2</sup>Department of Genetics, University of Georgia, Athens, GA, USA
+Context-Aware Significance of Cross-gene Attribution for Discovering Elements (CASCADE): a position-specific statistical framework for identifying model-derived candidate regulatory elements from *in silico* saturation mutagenesis of DNA language models.
 
 ## What's here
 
